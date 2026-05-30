@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtervtringify",
+        "uuid": 3627261,
+        "checksum": "botmn8i"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
